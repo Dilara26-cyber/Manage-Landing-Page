@@ -44,7 +44,6 @@ function slider() {
   if (width < 1440) {
     index++;
     change_cards();
-    console.log('worked');
   } else if (width >= 1440 && width < 1650) {
     index++;
     change_cards_bigger();
