@@ -3,6 +3,6 @@ A great Front End Mentor Challenge that tought me a lot about layouts. I mostly 
 Also, I added a client side form validation. You can access the form by clicking "Get Started" button on navbar or hero.
 
 Site-URL : manage-landing-pg.vercel.app
-<div>Desktop Design: <img src="https://user-images.githubusercontent.com/70946845/117576898-343d3c00-b0f0-11eb-8d0c-8213fa7f09af.png" alt="Desktop Design" width="300"/></div>
-<div>Mobile Design: <img src="https://user-images.githubusercontent.com/70946845/117576896-330c0f00-b0f0-11eb-9511-9af212d8eb7d.png" alt="Mobile Design" width="300" /></div>
+<img src="https://user-images.githubusercontent.com/70946845/117576898-343d3c00-b0f0-11eb-8d0c-8213fa7f09af.png" alt="Desktop Design" width="300"/>
+<img src="https://user-images.githubusercontent.com/70946845/117576896-330c0f00-b0f0-11eb-9511-9af212d8eb7d.png" alt="Mobile Design" width="300" />
 
