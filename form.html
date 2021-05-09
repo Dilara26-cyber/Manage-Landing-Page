@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./images/logo__sml.png"
+    />
+    <link rel="stylesheet" href="form.css" />
+    <title>Sign Up</title>
+  </head>
+  <body>
+    <main class="flex">
+      <section class="glass flex">
+        <form action="#" class="flex">
+          <h2>Sign Up</h2>
+          <div class="name flex">
+            <div class="fullname">
+              <label for="fullname">Full Name:</label>
+              <input
+                type="text"
+                name="fullname"
+                title="fullname"
+                id="fullname"
+              />
+            </div>
+            <div class="username">
+              <label for="username">Username:</label>
+              <input
+                type="text"
+                name="username"
+                title="username"
+                id="username"
+              />
+            </div>
+          </div>
+          <div class="password">
+            <label for="password">Password:</label>
+            <input
+              type="password"
+              name="password"
+              title="password"
+              min-length="6"
+              id="password"
+            />
+          </div>
+          <div class="email">
+            <label for="email">E-mail Address:</label>
+            <input type="email" name="email" title="email" id="email" />
+          </div>
+          <button type="submit" title="submit" class="btn">
+            Create Account
+          </button>
+        </form>
+        <div class="form__img"></div>
+      </section>
+    </main>
+    <script src="form.js"></script>
+  </body>
+</html>
