@@ -250,6 +250,7 @@ h1 {
   position: absolute;
   background-position-x: center;
   top: -35%;
+  background-size: 30%;
 }
 
 .testimo__person {
